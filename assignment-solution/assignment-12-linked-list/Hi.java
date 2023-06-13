@@ -1,4 +1,4 @@
-class Solution {
+class Hi {
 	static class Node {
 		int data;
 		Node next;
